@@ -1,0 +1,9 @@
+flask
+flask_restx
+sklearn
+pandas
+numpy
+werkzeug
+gunicorn
+pytest
+pytest-ordering
