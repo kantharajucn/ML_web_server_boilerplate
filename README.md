@@ -9,7 +9,7 @@ The second endpoint is `predict` for model inference, which takes single record 
 
 ### Run server locally
 
-1. Download the tar file and extract
+1. Clone the repository
     
     ```git clone https://github.com/kantharajucn/ML_web_server_boilerplate ```
     
